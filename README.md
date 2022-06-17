@@ -17,8 +17,8 @@ This is so funny! :joy:
 
 ## To include url link
 
-![URL]('https://rahuldkjain.github.io/gh-profile-readme-generator/')
+![markdown_badges]('[https://rahuldkjain.github.io/gh-profile-readme-generator/](https://github.com/Ileriayo/markdown-badges)')
 ![url_to_cheat_sheet]('https://rahuldkjain.github.io/gh-profile-readme-generator/')
 
 ## To include images
-
+![model_architecture](static/model_plot.png)
