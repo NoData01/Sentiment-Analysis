@@ -102,14 +102,6 @@ do_train(cfg, model, train_loader, val_loader, optimizer, None, F.cross_entropy)
 
 **You will find a template file and a simple example in the model and trainer folder that shows you how to try your first model simply.**
 
-## This is to insert code in readme
-` print('hello') `
-` print('hi my name is khai') `
-
-## To include url link
-
-![markdown_badges]('[https://rahuldkjain.github.io/gh-profile-readme-generator/](https://github.com/Ileriayo/markdown-badges)')
-[url_to_cheat_sheet](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 ## Model architecture
 ![model_architecture](static/model_plot.png)
